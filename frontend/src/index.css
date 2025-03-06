@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.chat-bubble {
+    background: var(--color-bubble, rgba(229, 231, 235, 0.9));
+    max-width: 80%;
+  }
+  
